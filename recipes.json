@@ -44,7 +44,7 @@
   { "id": 39, "name": "かぼちゃの煮物", "category": "和惣菜", "ingredients": ["かぼちゃ","醤油","みりん","砂糖","だし"] ,"images": "./assets/images/kabochanonimono.jpg" },
   { "id": 40, "name": "卵焼き", "category": "和惣菜", "ingredients": ["卵","砂糖","塩","油"] ,"images": "./assets/images/tamagoyaki.jpg" },
   { "id": 41, "name": "だし巻き卵", "category": "和惣菜", "ingredients": ["卵","だし","醤油","砂糖","油"] ,"images": "./assets/images/dashimakitamago.jpg" },
-  { "id": 42, "name": "ナスの煮浸し", "category": "和惣菜", "ingredients": ["ナス","だし","醤油","みりん","生姜"] ,"images": "./assets/images/nasunonibitashi.jpg.jpg" },
+  { "id": 42, "name": "ナスの煮浸し", "category": "和惣菜", "ingredients": ["ナス","だし","醤油","みりん","生姜"] ,"images": "./assets/images/nasunonibitashi.jpg" },
   { "id": 43, "name": "ナスの味噌炒め", "category": "和惣菜", "ingredients": ["ナス","豚肉","味噌","みりん","砂糖"] ,"images": "./assets/images/nasunomisoitame.jpg" },
   { "id": 44, "name": "白和え", "category": "和惣菜", "ingredients": ["豆腐","ほうれん草","白ごま","砂糖","醤油"] ,"images": "./assets/images/shiraae.jpg" },
   { "id": 45, "name": "ごま和え", "category": "和惣菜", "ingredients": ["ほうれん草","白ごま","砂糖","醤油"] ,"images": "./assets/images/gomaae.jpg" },
@@ -54,7 +54,7 @@
   { "id": 48, "name": "春雨サラダ", "category": "サラダ", "ingredients": ["春雨","きゅうり","人参","酢","砂糖","醤油"] ,"images": "./assets/images/harusamesarada.jpg" },
   { "id": 49, "name": "トマトサラダ", "category": "サラダ", "ingredients": ["トマト","玉ねぎ","オリーブオイル","塩"] ,"images": "./assets/images/tomatosarada.jpg" },
   { "id": 50, "name": "コールスロー", "category": "サラダ", "ingredients": ["キャベツ","人参","マヨネーズ","酢","砂糖"] ,"images": "./assets/images/ko-rusuro-.jpg" },
-  { "id": 51, "name": "中華サラダ", "category": "サラダ", "ingredients": ["春雨","きゅうり","わかめ","ごま油","醤油"] ,"images": "./assets/images/chuukasarada.jpg]" },
+  { "id": 51, "name": "中華サラダ", "category": "サラダ", "ingredients": ["春雨","きゅうり","わかめ","ごま油","醤油"] ,"images": "./assets/images/chuukasarada.jpg" },
 
   { "id": 52, "name": "味噌汁（豆腐とわかめ）", "category": "汁物", "ingredients": ["豆腐","わかめ","味噌","だし"] ,"images": "./assets/images/misoshirutouhu.jpg" },
   { "id": 53, "name": "味噌汁（なめこ）", "category": "汁物", "ingredients": ["なめこ","豆腐","味噌","だし"] ,"images": "./assets/images/misoshirunameko.jpg" },
